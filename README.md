@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverywaves&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverywaves&layout=compact&theme=radical)
 
 ### Languages
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -37,3 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
