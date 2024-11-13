@@ -7,12 +7,20 @@
 |DATABASE|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/DATABASE)|
 |GIT HUB|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/GIT_GITHUB)|
 |HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS/BASIC%20PRACTICE)|
-|HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
+|HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)<br>[CODE]()|
 |JAVA|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/JAVA)|
+|JAVA PROJECT|[보글보글](https://github.com/silverywaves/BUBBLE/tree/0efc6d6513c4667d562eeb685544622a38d96e7b/bubble)|
 |SERVLET|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/Servlet)|
 |STS3|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC_)|
 |SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)|
 |SPRINGBOOT PROJECT|[바로가기](https://github.com/silverywaves/SpringBoot_Project.git)|
+|EMBEDDED|[바로가기](https://github.com/silverywaves/EMBEDDED/tree/6c84526c50c26f1b9140cafb9c3517c7fc222631/DOC)|
+|DEPLOY|[바로가기](https://github.com/silverywaves/DEPLOY.git)|
+|AI|[바로가기](https://github.com/240711AIBigData/AI.git)|
+|REACT|[바로가기](https://github.com/ReactPrac/React_Project.git)|
+|REACT PROJECT|[Shoe Shop](https://reactprac.github.io/React_Project_shop/)<br>[CODE](https://github.com/ReactPrac/React_Project_shop.git)|
+|REACT PROJECT|[TODO](https://reactprac.github.io/React_TODO/)<br>[CODE](https://github.com/ReactPrac/React_TODO.git)|
+|FLUTTER|[init](https://github.com/SVW-App-Develop/App-Init-Flutter.git)<br>[basic & PROJECT](https://github.com/SVW-App-Develop/App-Flutter.git)
 
 <br>
 
