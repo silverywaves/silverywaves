@@ -4,9 +4,9 @@
 
 |All My Prac|Link|
 |-|:-:|
-|DATABASE|[바로가기](silverywaves/IT_ACADEMY/DATABASE)|
-|GIT HUB|[바로가기](./IT_ACADEMY/GIT_GITHUB)|
-|HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS)|
+|DATABASE|[바로가기](./silverywaves/IT_ACADEMY/DATABASE)|
+|GIT HUB|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/GIT_GITHUB)|
+|HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS/BASIC%20PRACTICE)|
 |HTML & CSS PROJECT - Clone Coding NETFLEX|[바로가기](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
 
 <br>
