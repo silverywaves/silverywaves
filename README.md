@@ -4,7 +4,7 @@
 
 |All My Prac|Link|
 |-|:-:|
-|DATABASE|[바로가기](./IT_ACADEMY/DATABASE)|
+|DATABASE|[바로가기](silverywaves/IT_ACADEMY/DATABASE)|
 |GIT HUB|[바로가기](./IT_ACADEMY/GIT_GITHUB)|
 |HTML & CSS & JS|[바로가기](./IT_ACADEMY/HTML_CSS_JS/BASIC PRACTICE)|
 |HTML & CSS PROJECT - Clone Coding NETFLEX|[바로가기](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
