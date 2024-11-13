@@ -3,11 +3,26 @@
 ## Hi there 👋 I'm SilveryWaves 🤗
 
 |All My Prac|Link|
-|-|:-:|
+|-|-|
 |DATABASE|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/DATABASE)|
 |GIT HUB|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/GIT_GITHUB)|
 |HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS/BASIC%20PRACTICE)|
-|HTML & CSS PROJECT - Clone Coding NETFLEX|[바로가기](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
+|HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
+|JAVA|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/JAVA)|
+|SERVLET|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/Servlet)|
+|STS3|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC_)|
+|SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)}
+|SPRINGBOOT PROJECT|[바로가기]()|
+
+<br>
+
+|All My Certification|Link|
+|-|-|
+|ADsP|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/ADsP)|
+|SQLD|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/SQLD)|
+|정보처리산업기사|[필기](https://dailylifethatsnormal.tistory.com/category/CERTIFICATION/IEIP)<br>[실기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/IEIP)|
+|리눅스마스터 2급|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/LINUXMASTER)|
+|빅데이터분석기사|[필기](https://github.com/240711AIBigData/BigDataCertification1.git)<br>[실기](https://github.com/240711AIBigData/BigDataCertification2.git)|
 
 <br>
 
