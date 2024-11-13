@@ -3,7 +3,7 @@
 ## Hi there 👋 I'm SilveryWaves 🤗
 
 |All My Prac|Link|
-|-|-|
+|-|:-:|
 |DATABASE|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/DATABASE)|
 |GIT HUB|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/GIT_GITHUB)|
 |HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS/BASIC%20PRACTICE)|
@@ -17,7 +17,7 @@
 <br>
 
 |All My Certification|Link|
-|-|-|
+|-|:-:|
 |ADsP|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/ADsP)|
 |SQLD|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/SQLD)|
 |정보처리산업기사|[필기](https://dailylifethatsnormal.tistory.com/category/CERTIFICATION/IEIP)<br>[실기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/IEIP)|
