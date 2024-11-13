@@ -11,7 +11,7 @@
 |JAVA|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/JAVA)|
 |SERVLET|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/Servlet)|
 |STS3|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC_)|
-|SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)}
+|SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)|
 |SPRINGBOOT PROJECT|[바로가기]()|
 
 <br>
