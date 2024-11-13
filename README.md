@@ -2,6 +2,13 @@
   
 ## Hi there 👋 I'm SilveryWaves 🤗
 
+|All My Prac|Link|
+|-|:-:|
+|DATABASE|[바로가기](./IT_ACADEMY/DATABASE)|
+|GIT HUB|[바로가기](./IT_ACADEMY/GIT_GITHUB)|
+|HTML & CSS & JS|[바로가기](./IT_ACADEMY/HTML_CSS_JS/BASIC PRACTICE)|
+|HTML & CSS PROJECT - Clone Coding NETFLEX|[바로가기](https://PROJECTLIST2024.github.io/NETFLEX_CLON)|
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverywaves&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverywaves&layout=compact&theme=radical)
