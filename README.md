@@ -22,14 +22,12 @@
 |REACT PROJECT|[TODO](https://reactprac.github.io/React_TODO/)<br>[CODE](https://github.com/ReactPrac/React_TODO.git)|
 |FLUTTER|[init](https://github.com/SVW-App-Develop/App-Init-Flutter.git)<br>[basic & PROJECT](https://github.com/SVW-App-Develop/App-Flutter.git)
 
-<br>
-
 |All My Certification|Link|
 |-|:-:|
 |ADsP|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/ADsP)|
 |SQLD|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/SQLD)|
 |정보처리산업기사|[필기](https://dailylifethatsnormal.tistory.com/category/CERTIFICATION/IEIP)<br>[실기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/IEIP)|
-|리눅스마스터 2급|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/LINUXMASTER)|
+|리눅스마스터 2급|[필기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/LINUXMASTER)|
 |빅데이터분석기사|[필기](https://github.com/240711AIBigData/BigDataCertification1.git)<br>[실기](https://github.com/240711AIBigData/BigDataCertification2.git)|
 
 <br>
