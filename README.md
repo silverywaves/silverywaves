@@ -11,7 +11,7 @@
 |JAVA|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/JAVA)|
 |JAVA PROJECT|[보글보글](https://github.com/silverywaves/BUBBLE/tree/0efc6d6513c4667d562eeb685544622a38d96e7b/bubble)|
 |SERVLET|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/Servlet)|
-|STS3|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC_)|
+|SPRING|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC)|
 |SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)|
 |SPRINGBOOT PROJECT|[바로가기](https://github.com/silverywaves/SpringBoot_Project.git)|
 |EMBEDDED|[바로가기](https://github.com/silverywaves/EMBEDDED/tree/6c84526c50c26f1b9140cafb9c3517c7fc222631/DOC)|
