@@ -2,35 +2,62 @@
   
 ## Hi there 👋 I'm SilveryWaves 🤗
 
-|All My Prac|Link|
-|-|:-:|
+<table>
+  <tr>
+    <td valign="top">
+
+### All My Prac
+
+| Category | Link |
+|----------|:----:|
 |DATABASE|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/DATABASE)|
 |GIT HUB|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/GIT_GITHUB)|
 |HTML & CSS & JS|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/HTML_CSS_JS/BASIC%20PRACTICE)|
-|HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)<br>[CODE]()|
 |JAVA|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/JAVA)|
-|JAVA PROJECT|[보글보글](https://github.com/silverywaves/BUBBLE/tree/0efc6d6513c4667d562eeb685544622a38d96e7b/bubble)|
 |SERVLET|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/Servlet)|
 |SPRING|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/STS3/DOC)|
 |SPRINGBOOT|[바로가기](https://github.com/silverywaves/IT_SPRINGBOOT.git)|
-|SPRINGBOOT PROJECT|[바로가기](https://github.com/silverywaves/SpringBoot_Project.git)|
 |EMBEDDED|[바로가기](https://github.com/silverywaves/EMBEDDED/tree/6c84526c50c26f1b9140cafb9c3517c7fc222631/DOC)|
 |DEPLOY|[바로가기](https://github.com/silverywaves/DEPLOY.git)|
 |AI|[바로가기](https://github.com/240711AIBigData/AI.git)|
 |REACT|[바로가기](https://github.com/ReactPrac/React_Project.git)|
+|FLUTTER|[INIT](https://github.com/SVW-App-Develop/App-Init-Flutter.git)<br>[DART](https://github.com/SVW-App-Develop/App-Flutter/tree/10d9fca6efe72bddfd77b55dd8eaf4c4d5ad55d8/doc/01)<br>[FLUTTER](https://github.com/SVW-App-Develop/App-Flutter/tree/10d9fca6efe72bddfd77b55dd8eaf4c4d5ad55d8/doc/02)|
+
+</td>
+
+<td valign="top">
+
+### All My Project
+
+| Category | Link |
+|----------|:----:|
+|HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)<br>[CODE](https://github.com/PROJECTLIST2024/NETFLEX_CLON.git)|
+|JAVA PROJECT|[Bubble Game CODE](https://github.com/silverywaves/BUBBLE/tree/0efc6d6513c4667d562eeb685544622a38d96e7b/bubble)|
+|SPRINGBOOT PROJECT|[CODE](https://github.com/silverywaves/SpringBoot_Project.git)|
 |REACT PROJECT|[Shoe Shop](https://reactprac.github.io/React_Project_shop/)<br>[CODE](https://github.com/ReactPrac/React_Project_shop.git)|
 |REACT PROJECT|[TODO](https://reactprac.github.io/React_TODO/)<br>[CODE](https://github.com/ReactPrac/React_TODO.git)|
-|FLUTTER|[init](https://github.com/SVW-App-Develop/App-Init-Flutter.git)<br>[basic & PROJECT](https://github.com/SVW-App-Develop/App-Flutter.git)
+|FLUTTER PROJECT|[PROJECT INDEX](https://github.com/SVW-App-Develop/App-Flutter/tree/10d9fca6efe72bddfd77b55dd8eaf4c4d5ad55d8/doc/03)|
+  
+</td>
+<td valign="top">
 
-|All My Certification|Link|
-|-|:-:|
-|ADsP|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/ADsP)|
-|SQLD|[바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/SQLD)|
-|정보처리산업기사|[필기](https://dailylifethatsnormal.tistory.com/category/CERTIFICATION/IEIP)<br>[실기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/IEIP)|
-|리눅스마스터 2급|[필기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/LINUXMASTER)|
-|빅데이터분석기사|[필기](https://github.com/240711AIBigData/BigDataCertification1.git)<br>[실기](https://github.com/240711AIBigData/BigDataCertification2.git)|
+### All My Certification
+
+| Certification | Link |
+|---------------|:----:|
+| ADsP | [바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/ADsP) |
+| SQLD | [바로가기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/SQLD) |
+| 정보처리산업기사 | [필기](https://dailylifethatsnormal.tistory.com/category/CERTIFICATION/IEIP)<br>[실기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/IEIP) |
+| 리눅스마스터 2급 | [필기](https://github.com/silverywaves/IT_ACADEMY/tree/a02b8272b4ae94d48c0f1557c92c57a6243cd4b9/LINUXMASTER) |
+| 빅데이터분석기사 | [필기](https://github.com/240711AIBigData/BigDataCertification1.git)<br>[실기](https://github.com/240711AIBigData/BigDataCertification2.git) |
+
+</td>
+  </tr>
+</table>
+
 
 <br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverywaves&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverywaves&layout=compact&theme=radical)
 
