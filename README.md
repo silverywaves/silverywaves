@@ -32,8 +32,9 @@
 | Category | Link |
 |----------|:----:|
 |HTML & CSS PROJECT|[Clone Coding NETFLEX](https://PROJECTLIST2024.github.io/NETFLEX_CLON)<br>[CODE](https://github.com/PROJECTLIST2024/NETFLEX_CLON.git)|
+|JS PROJECT|[FIRST_BIRTHDAY](https://PROJECTLIST2024.github.io/FIRST_BIRTHDAY)<br>[CODE](https://github.com/PROJECTLIST2024/FIRST_BIRTHDAY.git)|
 |JAVA PROJECT|[Bubble Game CODE](https://github.com/silverywaves/BUBBLE/tree/0efc6d6513c4667d562eeb685544622a38d96e7b/bubble)|
-|SPRINGBOOT PROJECT|[CODE](https://github.com/silverywaves/SpringBoot_Project.git)|
+|SPRINGBOOT PROJECT|[CODE]()|
 |REACT PROJECT|[Shoe Shop](https://reactprac.github.io/React_Project_shop/)<br>[CODE](https://github.com/ReactPrac/React_Project_shop.git)|
 |REACT PROJECT|[TODO](https://reactprac.github.io/React_TODO/)<br>[CODE](https://github.com/ReactPrac/React_TODO.git)|
 |FLUTTER PROJECT|[PROJECT INDEX](https://github.com/SVW-App-Develop/App-Flutter/tree/10d9fca6efe72bddfd77b55dd8eaf4c4d5ad55d8/doc/03)|
