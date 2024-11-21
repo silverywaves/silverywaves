@@ -88,6 +88,10 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=babyshu1103)](https://solved.ac/babyshu1103/)
+
 
 <!--
 **silverywaves/silverywaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
